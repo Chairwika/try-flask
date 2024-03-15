@@ -1,0 +1,5 @@
+Flask==2.2.2
+pygame>=2.0.0
+requests[socks]
+beautifulsoup4==4.11.1
+matplotlib==3.5.1
